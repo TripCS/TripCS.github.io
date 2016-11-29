@@ -23,7 +23,7 @@ favicon: /public/img/deer3.png
 
 # google analytics 设置
 ga:
-  id: UA-54262064-1 
+  id: UA-88179133-1
   url: TripCS.github.io
 
 # disqus 设置
